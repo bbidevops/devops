@@ -1,2 +1,2 @@
 #!bin/bash
-ram is bhagvan ygygy
+ram is 
